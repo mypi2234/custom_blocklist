@@ -1,3 +1,0 @@
-vd.contents.prod.us.s3.amazonaws.com
-graph.facebook.com
-d1oxlq5h9kq8q5.cloudfront.net
