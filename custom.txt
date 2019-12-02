@@ -1,5 +1,4 @@
 vd.contents.prod.us.s3.amazonaws.com
-graph.facebook.com
 d1oxlq5h9kq8q5.cloudfront.net
 d3cv4a9a9wh0bt.cloudfront.net
 d38cmiae9b0e22.cloudfront.net
